@@ -23,3 +23,7 @@ Program ini mensimulasikan operasi beberapa lift di sebuah gedung berdasarkan pe
 - Library standar Python (tanpa dependency tambahan)
 
 ## 📂 Struktur Proyek
+├── main.py # Source code utama simulasi
+├── laporan_akhir.pdf # Laporan akhir tugas besar
+├── ppt_presentasi.pptx # Slide presentasi
+└── README.md # Dokumentasi proyek
